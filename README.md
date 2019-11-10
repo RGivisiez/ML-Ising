@@ -15,3 +15,7 @@ refs:
 [1]:https://github.com/DanielJCase/Ising-Deep-Learning/blob/master/Ising_NN.ipynb
 [2]:https://github.com/Emergent-Behaviors-in-Biology/mlreview_notebooks/blob/master/NB12_CIX-DNN_ising_TFlow.ipynb
 [3]:https://github.com/francescobodria/Machine-Learning-for-Phase-Recognition/blob/master/Phase_learning_network.ipynb
+
+## License
+
+See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
