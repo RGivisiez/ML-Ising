@@ -1,6 +1,8 @@
 # ML-Ising
 Studying the Ising Model using machine learning algorithms.
 
+Notebooks with I: I didn't use samples for temperatures close to the phase transition.
+Notebooks with II: I used samples for temperatures close to the phase transition.
 
 refs:
 
